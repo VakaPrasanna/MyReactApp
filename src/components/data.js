@@ -1,7 +1,7 @@
 export const products = [
   {
     id: 59,
-    title: "Spring and Summershoes",
+    title: "Spring AND Summershoes",
     price: 20,
     quantity: 3,
     total: 60,
